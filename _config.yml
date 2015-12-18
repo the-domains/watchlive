@@ -1,0 +1,28 @@
+name: watchlive
+favicon: null
+layout_spectrum: 0.8145530661568046
+typography_spectrum: 0.40054242219775915
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.07442656136117876
+  lightness: 0.9356228718534112
+  saturation: 0.38408744614571333
+  rhythmicContrast: 0.5360651325900108
+purpose: []
